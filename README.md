@@ -1,9 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=우재's%20개발공부&fontSize=40)
 
-## 👋 안녕하세요 장우재입니다. 👋
+# 👋 Contact Me 👋
+<a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
+# 🛠️ My Stack 🛠️
 
 <a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://woooooji94.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
