@@ -8,7 +8,7 @@
 # 🛠️ My Stack 🛠️
 
 <a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://woooooji94.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://woooooji94.tistory.com" target="_blank"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=flat-square"/></a>
 <a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
