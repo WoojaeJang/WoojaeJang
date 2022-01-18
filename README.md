@@ -1,9 +1,6 @@
-<div align="center">
-  
-# Hello, I'm Woojae Jang
+## Hello, I'm Woojae Jang
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojaeJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/WoojaeJang)
   
 ## 👋 Contact Me 👋
   
@@ -12,8 +9,6 @@
 <a href="mailto:staphano77x@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/woooooji94" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-  
-<div align="center">
   
 ## 🛠️ My Tech Stack 🛠️
 
@@ -24,7 +19,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojaeJang&show_icons=true&theme=radical)](https://github.com/WoojaeJang) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact)](https://github.com/WoojaeJang)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact)](https://github.com/WoojaeJang)
 
 <!--
 **WoojaeJang/WoojaeJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
