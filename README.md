@@ -1,5 +1,7 @@
 ## 👋 안녕하세요 장우재입니다. 👋
 
+<a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 <!--
 **WoojaeJang/WoojaeJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
