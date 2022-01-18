@@ -17,6 +17,7 @@
   <a href="mailto:staphano77x@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/woooooji94" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://woooooji94.tistory.com" target="_blank"><img src ="https://img.shields.io/badge/Tistory Blog-EEEEEE?&style=flat-square"/></a>
+  <a href="https://woooooji94.notion.site/e619458d725e473496a37adbe73a7929" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   </br></br>
 </p>
 
