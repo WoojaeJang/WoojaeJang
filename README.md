@@ -2,8 +2,12 @@
 #### About ME
 <p>
   Hi there! I'm <b>Industrial Engineering student</b> and <b>big data Engineer</b> using Python and Java. <br/>
-  I'm graduating from college soon. And I'm going to study hard and get a job related to big data! <br/><br/>
-  I really love to travel aboard. The best trip I've ever been to was <b>Camino de Santiago</b>. ⛰💖 <br/>
+  I can develop machine learning and deep learning projects like 'restoring black and white photos to colors'. 
+</p>
+<p>
+  I really love to travel aboard. The best trip I've ever been to was <b>Camino de Santiago</b>. ⛰💖 
+</p>
+<p> 
   I hope to be the best big data analytics developer.<br/>
 </p>
 
