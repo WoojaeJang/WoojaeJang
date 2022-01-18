@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! Woojae%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello This is WoojaeJang%20render&fontSize=90)
 
 ## 👋 안녕하세요 장우재입니다. 👋
 
@@ -9,7 +9,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojaeJang&show_icons=true&theme=radical)](https://github.com/WoojaeJang)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact)](https://github.com/WoojaeJang)
 
 <!--
