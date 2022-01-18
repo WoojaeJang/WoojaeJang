@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=우지's 개발 공부%20render&fontSize=90)
+
 ## 👋 안녕하세요 장우재입니다. 👋
 
 <a href="https://www.instagram.com/wooooo_ji94" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
