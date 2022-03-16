@@ -50,16 +50,13 @@ I hope to be the best big data analytics developer.
 
 ### ✨ Other Skills ✨
 #### Design
-![RStudio](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
-![RStudio](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
-![RStudio](https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white">
 
 
 | <a href="https://github.com/WoojaeJang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WoojaeJang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/WoojaeJang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojaeJang&show_icons=true&theme=buefy)](https://github.com/WoojaeJang) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact)](https://github.com/WoojaeJang) |
-| --- | --- |
 
 
 
