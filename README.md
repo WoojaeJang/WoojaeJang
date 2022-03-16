@@ -26,6 +26,13 @@ I hope to be the best big data analytics developer.
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-EEEEEE?style=flat-square)
 
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![SQL](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+
+
 #### Library & SoftWare
 ![Gurobi](https://img.shields.io/badge/Gurobi-DA1F26?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -35,9 +42,14 @@ I hope to be the best big data analytics developer.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![Minitab](https://img.shields.io/badge/Minitab-8DC63F?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 
 
 #### IDE
@@ -50,9 +62,9 @@ I hope to be the best big data analytics developer.
 
 ### ✨ Other Skills ✨
 #### Design
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white">
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
+![PremierePro](https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)
 
 
 | <a href="https://github.com/WoojaeJang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WoojaeJang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/WoojaeJang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact&theme=buefy&hide_border=true" /></a> |
