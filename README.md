@@ -1,7 +1,7 @@
 ### 👋 Introduction 👋
 #### About ME
 
-Hi there! I'm <b>Industrial Engineering student</b> and <b>big data Engineer</b> using Python and Java.
+Hi there! I'm Woojae and I'm a <b>Data Analyist</b> from Korea.
 
 I can develop machine learning and deep learning projects like 'restoring black and white photos to colors'. 
 
@@ -55,7 +55,8 @@ I hope to be the best big data analytics developer.
 ![RStudio](https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)
 
 
-
+| <a href="https://github.com/WoojaeJang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WoojaeJang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/WoojaeJang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojaeJang&show_icons=true&theme=buefy)](https://github.com/WoojaeJang) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoojaeJang&layout=compact)](https://github.com/WoojaeJang) |
 | --- | --- |
