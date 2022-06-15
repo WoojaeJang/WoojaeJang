@@ -1,13 +1,13 @@
 ### 👋 Introduction 👋
 #### About ME
 
-Hi there! I'm Woojae and I'm a <b>Data Analyist</b> from Korea.
+Hi there! I'm Woojae and I'm a <b>Data Engineer</b> from Korea.
 
-I can develop machine learning and deep learning projects like 'restoring black and white photos to colors'. 
+I can develop machine learning and deep learning projects like 'restoring black and white photos to colors'. And I can do data engineering tasks such as crawling, processing, and storing data.
 
 I really love to travel aboard. The best trip I've ever been to was <b>Camino de Santiago</b>. ⛰💖 
 
-I hope to be the best big data analytics developer.
+I hope to be the best big data full stack developer.
 
 
 #### Contact ME
@@ -46,10 +46,18 @@ I hope to be the best big data analytics developer.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![Minitab](https://img.shields.io/badge/Minitab-8DC63F?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 
 
 #### IDE
