@@ -25,8 +25,6 @@ I hope to be the best big data full stack developer.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-EEEEEE?style=flat-square)
-
-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![SQL](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -37,25 +35,19 @@ I hope to be the best big data full stack developer.
 ![Gurobi](https://img.shields.io/badge/Gurobi-DA1F26?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
-
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![Minitab](https://img.shields.io/badge/Minitab-8DC63F?style=flat-square)
 
