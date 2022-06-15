@@ -3,7 +3,7 @@
 
 Hi there! I'm Woojae and I'm a <b>Data Engineer</b> from Korea.
 
-I can develop machine learning and deep learning projects like 'restoring black and white photos to colors'. And I can do data engineering tasks such as crawling, processing, and storing data.
+I can develop machine learning and deep learning projects like 'restoring black and white photos to colors'. And I can do 'data engineering tasks' such as crawling, processing, and storing data.
 
 I really love to travel aboard. The best trip I've ever been to was <b>Camino de Santiago</b>. ⛰💖 
 
@@ -17,7 +17,7 @@ I hope to be the best big data full stack developer.
 [![Tistory](https://img.shields.io/badge/TistoryBlog-EEEEEE?&style=flat-square)](https://woooooji94.tistory.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://woooooji94.notion.site/e619458d725e473496a37adbe73a7929)
 
-
+<br/>
   
 ### 🛠️ My Tech Stack 🛠️
 #### Language
@@ -67,6 +67,7 @@ I hope to be the best big data full stack developer.
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
 
+<br/>
 
 ### ✨ Other Skills ✨
 #### Design
